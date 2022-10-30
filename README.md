@@ -7,5 +7,6 @@
 - 😄 Pronouns:He/Him
 <img  src="https://github-readme-stats.vercel.app/api?username=abhi-1407&&show_icons=true&theme=radical"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi-1407&theme=radical" width="50%">
+<img src="https://github.com/abhi-1407/github-stats/blob/master/generated/languages.svg" style="width:25vw">
 
  
