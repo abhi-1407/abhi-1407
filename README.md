@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me 🚀
+🎓 Computer Science student at Thapar Institute Of Engineering And Technology.
+👨‍💻 Passionate about Software Development. Enjoying learning new things.
+🌱 Exploring the world of technology.
+🖥 Technologies and Languages
+CPP Python SQL R JavaScript 
+
+⚙️  GitHub Analytics
+abhi-1407
+
+Visitor Badge   
