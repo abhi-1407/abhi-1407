@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a Chatting Application
 - 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about developement,Data Structures and Algorithm
+- 💬 Ask me about: Developement,Data Structures and Algorithms
 - 📫 Reach me on: LinkedIn
-- 😄 Pronouns:He/him
+- 😄 Pronouns:He/Him
 
 
  
